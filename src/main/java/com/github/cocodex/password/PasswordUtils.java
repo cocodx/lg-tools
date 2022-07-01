@@ -1,4 +1,4 @@
-package org.lg.tools.password;
+package com.github.cocodex.password;
 
 /**
  * @author amazfit
