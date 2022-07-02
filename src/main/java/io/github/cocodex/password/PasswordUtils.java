@@ -1,4 +1,4 @@
-package com.github.cocodex.password;
+package io.github.cocodex.password;
 
 /**
  * @author amazfit
