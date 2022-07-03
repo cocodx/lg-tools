@@ -1,4 +1,6 @@
-package io.github.cocodex.string;
+package io.github.cocodex.tools.string;
+
+import java.util.HashSet;
 
 /**
  * @author amazfit
@@ -10,4 +12,5 @@ public class StringUtils {
         if(object!=null && !object.equals("")) return false;
         return true;
     }
+
 }
